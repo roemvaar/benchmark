@@ -1,3 +1,10 @@
+---
+layout: default
+title: Dashboard
+parent: Target Platforms
+nav_order: 2
+---
+
 # Dashboard
 
 ## Equipment
