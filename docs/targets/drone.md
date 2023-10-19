@@ -19,6 +19,7 @@ nav_order: 3
 
 * [PX4 Drone Autopilot](https://github.com/PX4/PX4-Autopilot): Source code for the whole project,
 including bootloader, RTOS, flight mode code
+* [PX4 Drone Autopilot (Waterloo Fork)](https://github.com/roemvaar/PX4-Autopilot)
 * The RTOS running the drone code is NuttX
 * [NuttX Applications](https://github.com/PX4/NuttX-apps/tree/a489381b49835ecba6f3b873b5071d882a18152f)
 

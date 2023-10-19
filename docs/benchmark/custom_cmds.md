@@ -7,6 +7,22 @@ nav_order: 2
 
 # Custom Commands
 
+The benchmark has the following commands:
+
+* Proxy
+* Non-memory (CPU) instruction (1, 5, 10, 100, 1000)
+    * ``add x1, x2, x3``
+* Memory instructions (1, 5, 10, 100, 1000)
+    * ``ldr r6, =0x20000000``
+* I/O instructions, e.g., flash (1, 5, 10, 100, 1000)
+    * ``ldr r4, =0x8004000``
+* Conditional (branch) instructions
+    * `cbz`
+* Kill switch (static)
+* Kill switch (another type)
+* CVE 1
+* CVE 2
+
 ## General
 
 ## Drone Specific
