@@ -42,8 +42,6 @@ it on a host machine, the other option is to get a precompiled version. After an
 two ways, this image needs to be stored on a flash drive. Check the following image for instructions on how to flash
 the micro sd card:
 
-
 For booting the images, you just plug the SD card into the Pi slot, power the board and see the AGL with the help of an external monitor.
-
 
 ## References
