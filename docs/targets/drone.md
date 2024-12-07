@@ -2,7 +2,7 @@
 layout: default
 title: Drone
 parent: Target Platforms
-nav_order: 3
+nav_order: 2
 ---
 
 # Drone Firmware

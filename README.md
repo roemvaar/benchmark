@@ -7,3 +7,8 @@ supporting three off-the-shelf platforms (aerospace, automotive,
 and smart sensors) and binding to different communication
 techniques. Scalable, multifaceted side-channel effect library.
 Includes a common evasion technique (port knocking).
+
+## Build Locally
+
+$ bundle install
+$ bundle exec jekyll serve

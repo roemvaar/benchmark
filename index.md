@@ -1,12 +1,12 @@
 ---
-title: Home
+title: Testbench
 layout: home
 nav_order: 1
 ---
 
-Testbench for cybersecurity development and testing.
+# Testbench for Cybersecurity Development and Testing
 
-First benchmark to be released to the community supporting three off-the-shelf platforms
+The first benchmark to be released to the community supports three off-the-shelf platforms
 (aerospace, automotive, and smart sensors) and binding to different communication techniques.
 Scalable, multifaceted side-channel effect library. Includes a common evasion technique
 (port knocking).

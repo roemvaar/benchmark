@@ -5,11 +5,11 @@ parent: Target Platforms
 nav_order: 2
 ---
 
-# Dashboard
+# AGL Display
 
 ## Equipment
 
-* Raspberry Pi 4b (RPi4)
+* Raspberry Pi 4 Model B.
 * Micro SD 16GB
 * Kvaser CAN to USB adapter (x2)
 * Host PC with build tools
@@ -27,7 +27,7 @@ The RPi4 is the target.
 
 ## AGL
 
-Automotive Grade Linux is an open source project by the Linux Foundation. It is an open source operating system 
+Automotive Grade Linux (AGL) is an open source project by the Linux Foundation. It is an open source operating system 
 and development framework for automotive applications.
 
 ## Raspberry Pi

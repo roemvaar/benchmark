@@ -7,3 +7,13 @@ permalink: /docs/targets
 ---
 
 # Target Platforms
+
+## Target Platforms
+
+Target platforms characteristics:
+
+| **Industry**  | **Target**    | **Communication Protocol** |
+|---------------|---------------|----------------------------|
+| Aerospace     | Drone         | MAVLink                    |
+| Automotive    | AGL Dashboard | CAN                        |
+| Smart Sensors | Camera        | UART                       |
